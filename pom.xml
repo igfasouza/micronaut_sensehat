@@ -90,7 +90,7 @@
 			<artifactId>sensehat</artifactId>
 			<version>1.0.0</version>
 			<scope>system</scope>
-			<systemPath>/full/path/to/rpi-sense-hat-java/build/libs/java-executor-1.0-SNAPSHOT.jar</systemPath>
+			<systemPath>/Users/iaragaod/eclipse-workspace/rpi-sense-hat-java/build/libs/java-executor-1.0-SNAPSHOT.jar</systemPath>
 		</dependency>
 	</dependencies>
 
