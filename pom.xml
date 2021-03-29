@@ -14,8 +14,8 @@
 	</parent>
 
 	<properties>
-		<jdk.version>11</jdk.version>
-		<release.version>11</release.version>
+		<jdk.version>8</jdk.version>
+		<release.version>8</release.version>
 		<micronaut.version>2.0.2</micronaut.version>
 		<exec.mainClass>com.example.Application</exec.mainClass>
 	</properties>
